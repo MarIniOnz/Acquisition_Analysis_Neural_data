@@ -1,2 +1,2 @@
-# Acquisition and Analysis of Neural Data 
+# Acquisition \& Analysis of Neural Data 
 Acquisition and Analysis of Neural Data exercises.
